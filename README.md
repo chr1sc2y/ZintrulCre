@@ -3,12 +3,10 @@
 Hello, I'm Zhengyu. 
 
 - 👤 I'm a software developer at Timi Studios, Tencent.
-
 - ⌨ Interested in solving problems using algorithms.
 - 📷 Enthusiastic in fitness, photography & reading.
 - 🎯 2021 Goal: break through all the shackles that bondage me.
 - 💡 Fun fact about me: my favorite color is leaden gray.
-
 
 
 ### Contact me 📧
@@ -18,7 +16,6 @@ Hello, I'm Zhengyu.
 - 🌐 Visit my personal website: [尾張](https://zintrulcre.vip/)
 
 
-
 ### Cheers 🍻
 
-[![ZintrulCre's github stats](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ZintrulCre's github stats](https://github-readme-stats.vercel.app/api?username=ZintrulCre)](https://github.com/anuraghazra/github-readme-stats)
