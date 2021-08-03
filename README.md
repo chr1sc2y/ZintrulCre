@@ -3,7 +3,7 @@
 Hello, I'm Zhengyu. 
 
 - 👤 I'm a software developer at Timi Studios, Tencent.
-- 📷 Enthusiastic in fitness, photography & reading.
+- 📷 Enthusiastic in fitness, photography, reading & guitar.
 - 💡 Fun fact about me: my favorite color is leaden gray.
 
 
