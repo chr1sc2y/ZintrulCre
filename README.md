@@ -1,10 +1,9 @@
-### Welcome 👋
+### Hi, I'm <a href="https://zintrulcre.vip/">Zhengyu</a> 👋
 
-Hello, I'm Zhengyu. 
+![](https://img.shields.io/github/stars/zintrulcre?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/zintrulcre)
 
-- 👤 I'm a software developer at Timi Studios, Tencent.
-- 📷 Enthusiastic in fitness, photography, reading & guitar.
-- 💡 Fun fact about me: my favorite color is leaden gray.
+- 👤 Software development Engineer at Timi Studios, Tencent.
+- 📷 Enthusiastic in fitness, photography, coding & reading.
 
 
 ### Contact me 📧
@@ -13,7 +12,8 @@ Hello, I'm Zhengyu.
 - 📫 Reach me at: [zintrulcre@gmail](mailto:zintrulcre@gmail)
 - 🌐 Visit my personal website: [尾張](https://zintrulcre.vip/)
 
-
 ### Cheers 🍻
 
-[![ZintrulCre's github stats](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=blueberry)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintrulcre&theme=blueberry&show_icons=true)
