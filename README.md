@@ -16,4 +16,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=blueberry)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintrulcre&theme=blueberry&show_icons=true)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintrulcre&theme=blueberry&show_icons=true) -->
