@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/stars/zintrulcre?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/zintrulcre)
 
-- 👤 Software development Engineer at Amazon, previously at Timi Studios Tencent.
+- 👤 Software Development Engineer at Amazon, previously at Timi Studios Tencent.
 - 📷 Enthusiastic in fitness, photography, reading & video games.
 
 
