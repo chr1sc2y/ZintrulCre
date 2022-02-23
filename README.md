@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://zintrulcre.vip/">Zhengyu</a> 👋
+### Hi, I'm Zhengyu 👋
 
 ![](https://img.shields.io/github/stars/zintrulcre?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/zintrulcre)
 
