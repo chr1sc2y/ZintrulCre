@@ -1,7 +1,5 @@
 ### Hi, I'm Zhengyu 👋
 
-![](https://img.shields.io/github/stars/zintrulcre?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/zintrulcre)
-
 - 👤 Software Development Engineer at Amazon, previously at Timi Studios Tencent.
 - 📷 Enthusiastic in fitness, photography, travelling, reading & video games.
 
@@ -13,6 +11,8 @@
 - 🌐 Visit my personal website: [尾張](https://zintrulcre.vip/)
 
 ### Cheers 🍻
+
+![](https://img.shields.io/github/stars/zintrulcre?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/zintrulcre)
 
 ![](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=blueberry)
 
