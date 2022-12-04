@@ -17,3 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=blueberry)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintrulcre&theme=blueberry&show_icons=true) -->
+
+<a href="https://psnprofiles.com/zintrulcre21"><img src="https://card.psnprofiles.com/1/zintrulcre21.png" border="0"></a>
