@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Joel, Software Development Engineer @Amazon, previously @TimiStudiosTencent.
+This is Zhengyu, Software Development Engineer at Amazon, previously at Timi Studio Tencent.
 
 
 ### Contact me 📧
