@@ -1,7 +1,6 @@
-### Hi, I'm Zhengyu 👋
+### Hi there 👋
 
-- 👤 Software Development Engineer at Amazon, previously at Timi Studios Tencent.
-- 📷 Enthusiastic in fitness, photography, travelling, reading & video games.
+This is Joel, Software Development Engineer @Amazon, previously @TimiStudiosTencent.
 
 
 ### Contact me 📧
