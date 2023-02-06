@@ -15,6 +15,8 @@ This is Zhengyu, Software Development Engineer at Amazon, previously at Timi Stu
 
 ![](https://github-readme-stats.vercel.app/api?username=ZintrulCre&theme=blueberry)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zintrulcre&theme=blueberry&show_icons=true) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZintrulCre)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZintrulCre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://psnprofiles.com/zintrulcre21"><img src="https://card.psnprofiles.com/1/zintrulcre21.png" border="0"></a>
